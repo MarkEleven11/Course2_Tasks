@@ -16,4 +16,5 @@ public class Main {
                 .forEach((e -> System.out.println(e.getKey() + " - " + e.getValue())));
 
     }
+
 }
